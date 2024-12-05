@@ -5,7 +5,7 @@
   SearchMovieVideo (FilterBot)
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+VJ+Filter+Bot!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Honors+Filter+Bot!)
 </p>
 
 ## Main Feature 
